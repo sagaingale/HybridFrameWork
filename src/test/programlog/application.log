@@ -1,0 +1,28 @@
+2022-07-22 20:09:03,601  INFO [main] BaseClass:20 - reading a browse name from configchrome
+2022-07-22 20:09:03,604  INFO [main] BaseClass:22 - reading driver name from config >>>> Chrome 
+2022-07-22 20:10:07,299  INFO [main] BaseClass:35 -  Opening the url 
+2022-07-22 20:10:24,890  INFO [main] BaseClass:43 - Test suite is ready for the execution  Default test
+2022-07-22 20:10:25,211  INFO [main] BaseClass:15 - *****Test is Started*****firstName
+2022-07-22 20:10:25,361  INFO [main] BaseClass:28 - Enter the First Name
+2022-07-22 20:10:28,081 ERROR [main] BaseClass:33 - Unable to enter the First Name
+2022-07-22 20:10:28,084  INFO [main] BaseClass:21 - Pass*****Test is Started*****firstName
+2022-07-22 20:10:28,167  INFO [main] BaseClass:15 - *****Test is Started*****lastName
+2022-07-22 20:10:28,171  INFO [main] BaseClass:41 - Enter the Last Name
+2022-07-22 20:10:28,292  INFO [main] BaseClass:21 - Pass*****Test is Started*****lastName
+2022-07-22 20:10:28,296  INFO [main] BaseClass:15 - *****Test is Started*****address
+2022-07-22 20:10:28,300  INFO [main] BaseClass:49 - Enter the Address
+2022-07-22 20:10:28,401  INFO [main] BaseClass:21 - Pass*****Test is Started*****address
+2022-07-22 20:10:28,403  INFO [main] BaseClass:15 - *****Test is Started*****email
+2022-07-22 20:10:28,405  INFO [main] BaseClass:58 - Enter the EmailID
+2022-07-22 20:10:28,510  INFO [main] BaseClass:21 - Pass*****Test is Started*****email
+2022-07-22 20:10:28,512  INFO [main] BaseClass:15 - *****Test is Started*****mobile
+2022-07-22 20:10:28,513  INFO [main] BaseClass:66 - Enter the Mobile Number
+2022-07-22 20:10:28,621  INFO [main] BaseClass:21 - Pass*****Test is Started*****mobile
+2022-07-22 20:10:28,624  INFO [main] BaseClass:15 - *****Test is Started*****password
+2022-07-22 20:10:28,627  INFO [main] BaseClass:74 - Enter the Password
+2022-07-22 20:10:28,757  INFO [main] BaseClass:21 - Pass*****Test is Started*****password
+2022-07-22 20:10:28,759  INFO [main] BaseClass:15 - *****Test is Started*****confirmPassword
+2022-07-22 20:10:28,761  INFO [main] BaseClass:82 - Enter the Confirmation Password
+2022-07-22 20:10:28,892  INFO [main] BaseClass:21 - Pass*****Test is Started*****confirmPassword
+2022-07-22 20:10:36,261  INFO [main] BaseClass:89 - Driver is closing now
+2022-07-22 20:10:42,229  INFO [main] BaseClass:92 - Driver is closed now

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4005" started-at="2022-07-22T14:40:24Z" finished-at="2022-07-22T14:40:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4005" started-at="2022-07-22T14:40:24Z" finished-at="2022-07-22T14:40:28Z">
+      <class name="com.tests.RegistrationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tests.RegistrationTest@147ed70f]" name="setUp" is-config="true" duration-ms="81334" started-at="2022-07-22T14:39:03Z" finished-at="2022-07-22T14:40:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="firstName()[pri:0, instance:com.tests.RegistrationTest@147ed70f]" name="firstName" duration-ms="2871" started-at="2022-07-22T14:40:25Z" finished-at="2022-07-22T14:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstName -->
+        <test-method status="PASS" signature="lastName()[pri:1, instance:com.tests.RegistrationTest@147ed70f]" name="lastName" duration-ms="125" started-at="2022-07-22T14:40:28Z" finished-at="2022-07-22T14:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastName -->
+        <test-method status="PASS" signature="address()[pri:2, instance:com.tests.RegistrationTest@147ed70f]" name="address" duration-ms="104" started-at="2022-07-22T14:40:28Z" finished-at="2022-07-22T14:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- address -->
+        <test-method status="PASS" signature="email()[pri:3, instance:com.tests.RegistrationTest@147ed70f]" name="email" duration-ms="106" started-at="2022-07-22T14:40:28Z" finished-at="2022-07-22T14:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- email -->
+        <test-method status="PASS" signature="mobile()[pri:4, instance:com.tests.RegistrationTest@147ed70f]" name="mobile" duration-ms="110" started-at="2022-07-22T14:40:28Z" finished-at="2022-07-22T14:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobile -->
+        <test-method status="PASS" signature="password()[pri:5, instance:com.tests.RegistrationTest@147ed70f]" name="password" duration-ms="133" started-at="2022-07-22T14:40:28Z" finished-at="2022-07-22T14:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method status="PASS" signature="confirmPassword()[pri:6, instance:com.tests.RegistrationTest@147ed70f]" name="confirmPassword" duration-ms="133" started-at="2022-07-22T14:40:28Z" finished-at="2022-07-22T14:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.RegistrationTest@147ed70f]" name="tearDown" is-config="true" duration-ms="5968" started-at="2022-07-22T14:40:36Z" finished-at="2022-07-22T14:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.RegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
